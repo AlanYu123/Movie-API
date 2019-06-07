@@ -1,4 +1,4 @@
-# Movie-API
+# Environment-API
 So another idea I had for our app was an environment-based app that allows users to customize their lifestyle in order to live more sustainably. 
 
 This idea is sort of based off of two apps that already exist, called Green Me! and Joule Bug. Green Me! basically provides users with a  number of ways in which they can be more environmentally responsible. For example, the app has a section called "Green My Clothing", which gives users unique ideas on how to reuse, refurnish, or donate old clothes. It also provides users with nearby donation sites and stuff. 
